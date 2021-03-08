@@ -1,0 +1,15 @@
+{
+    "name": "com.tymski.screenshot",
+    "displayName": "Screenshots in Editor",
+    "description": "Basic screenshoting tool (Tools/Screenshots)",
+    "version": "0.0.1",
+    "unity": "2017.1",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tymski/UnityScreenshot"
+    },
+    "author": {
+        "name": "Tymski"
+    }
+}
