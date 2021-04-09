@@ -2,7 +2,7 @@
     "name": "com.tymski.screenshot",
     "displayName": "Screenshots in Editor",
     "description": "Basic screenshoting tool (Tools/Screenshots)",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "unity": "2017.1",
     "license": "MIT",
     "repository": {
